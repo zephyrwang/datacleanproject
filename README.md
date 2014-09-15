@@ -10,12 +10,12 @@
 * read in subject_test.txt to get the person vector in test data
 * read in y_test.txt to get the activity_num vector(1~6) in test data
 * create a NA list test_activity to store the descriptive names of activities later in combined dataset
-* 
+
 * read in features.txt to get all features data in one matrix for test dataset
-* 
+
 * go to folder Inertial Signals to read triaxial data for test dataset, and combine triaxial data into one matrix
 * create name list for triaxial data
-* 
+
 * create variable "type" to store the instance source(test or train)
 * column combine person vector, activity_num vector, activity NA vector, features data matrix, triaxial data matrix to get the final data set for test data
 * create the name vector for test data
