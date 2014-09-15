@@ -21,7 +21,7 @@
 * create the name vector for test data
 * attach name vector to the test data set
  
-## Similar procedurs are performed with train data
+## Similar procedurs as shown in "Read test data" are performed to read train data
 
 ## Merge test data and train data
 * row bind test data and train data to get full dataset
